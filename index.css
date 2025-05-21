@@ -1,0 +1,20 @@
+h1{
+border:1px solid black;
+display:inline-block;
+
+
+
+}
+
+.portasahumerios{
+    text-decoration: underline; text-decoration-color: blue; text-decoration-style :wavy 
+}
+
+.texto{
+    display: block;
+    width: 100%;
+}
+.foto{
+    width: 500px;
+    
+}
